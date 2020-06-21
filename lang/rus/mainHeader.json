@@ -1,0 +1,8 @@
+{
+  "MAIN_TITLE": "UserList - Система регистрации и авторизации.",
+  "LOGIN_BTN": "Вход",
+  "LOGOUT_BTN": "Выход",
+  "REG_BTN": "Регистрация",
+  "EMAIL_PLACEHOLDER": "ел.почта",
+  "PASS_PLACEHOLDER": "пароль"
+}

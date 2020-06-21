@@ -1,0 +1,16 @@
+.adminLink {
+    text-decoration: none;
+    color: #322e3d;
+    margin: 0 10px;
+}
+
+.footInfo {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.mainFooter {
+    width: 100%;
+
+}

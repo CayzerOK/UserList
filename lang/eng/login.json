@@ -1,0 +1,11 @@
+{
+  "GOTO_REGISTER": "Do not have an account?",
+  "LOGIN_TITLE": "Login:",
+  "LOGIN_BTN": "Sign in",
+  "EMAIL_PLACEHOLDER": "email",
+  "PASS_PLACEHOLDER": "password",
+
+  "EMAIL_ALERT": "Email is not valid or unavailable.",
+  "WRONG_ALERT": "Wrong email or password.",
+  "PASS_ALERT": "Password is not valid."
+}

@@ -1,0 +1,31 @@
+.loginWrapper {
+    margin: auto !important;
+}
+.log {
+    font-size: 20px !important;
+    width: 98%;
+    margin: 1% 0;
+}
+
+.bigTitle {
+    flex-grow: 1;
+    font-size: 20px;
+}
+
+.logTitleWrapper {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.alerts {
+    position: absolute;
+    top: 10vh;
+    right: 5vh;
+}
+
+.alertElem {
+    display: none;
+    width: 300px;
+    word-wrap: break-word;
+}

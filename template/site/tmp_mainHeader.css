@@ -1,0 +1,33 @@
+.headLogo {
+    width: 10vw;
+    min-width: 40px;
+    height: 40px;
+    margin: 4px;
+}
+
+#loginBTN {
+    margin-left: 5px;
+    margin-right: 10px;
+    flex-grow: 1;
+}
+
+.login {
+    margin-top: 2px;
+    background: rgba(94, 100, 114, 0.07);
+    border: 2px solid rgba(43, 81, 87, 0.33);
+}
+.reg {
+    flex-grow: 1;
+}
+
+.headerTitle {
+    flex-grow: 3;
+}
+
+.mainHeader {
+    font-family: "Franklin Gothic", serif;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+}

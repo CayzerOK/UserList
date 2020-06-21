@@ -1,0 +1,8 @@
+{
+  "MAIN_TITLE": "UserList - User registration and authorisation system.",
+  "LOGIN_BTN": "Login",
+  "LOGOUT_BTN": "Logout",
+  "REG_BTN": "Register",
+  "EMAIL_PLACEHOLDER": "email",
+  "PASS_PLACEHOLDER": "password"
+}

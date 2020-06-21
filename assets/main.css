@@ -1,0 +1,70 @@
+.input {
+    border: 2px solid white;
+    font-size: 14px;
+    border-radius: 5px;
+    text-align: center;
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.contentWrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 90vw;
+    height: 100vh;
+    margin: auto;
+}
+
+.input:focus {
+    outline: none;
+    border: 2px solid #d66a4e94;
+
+}
+
+.input:hover {
+    -webkit-box-shadow: 0 0 6px 0 rgba(0,0,0,0.35);
+    -moz-box-shadow: 0 0 6px 0 rgba(0,0,0,0.35);
+    box-shadow: 0 0 6px 0 rgba(0,0,0,0.35);
+}
+
+.pageRootElem {
+    margin: 4px;
+    background: white;
+    border-radius: 5px;
+    padding: 4px;
+    font-family: 'Franklin Gothic', serif;
+    min-width: 300px;
+
+    -webkit-box-shadow: 0 0 6px 0 rgba(0,0,0,0.35);
+    -moz-box-shadow: 0 0 6px 0 rgba(0,0,0,0.35);
+    box-shadow: 0 0 6px 0 rgba(0,0,0,0.35);
+}
+
+.btn {
+    border-radius: 5px;
+    color: #322e3d;
+    text-align: center;
+    padding: 4px;
+    cursor: pointer;
+    box-shadow: 0 5px 5px rgba(0,0,0,0);
+    transition: box-shadow 0.3s ease-in-out;
+    user-select: none;
+}
+
+.btn:hover {
+    box-shadow: 0 0 6px 0 rgba(0,0,0,0.35);
+}
+
+body {
+    background-image: url("/assets/img/background.jpg");
+    background-size: cover;
+    margin: 0;
+}
+
+.regTitle {
+    text-align: center;
+    margin-left: 40px;
+    width: 120px;
+    display: block;
+}

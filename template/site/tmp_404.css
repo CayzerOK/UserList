@@ -1,0 +1,14 @@
+.backError {
+    font-size: 1000px;
+    opacity: .1;
+    position: fixed;
+    user-select: none;
+    z-index: -1;
+    top: 0;
+}
+.content {
+    font-family: "Franklin Gothic", serif;
+    font-size: 25px;
+    width: 90vw;
+    color: white;
+}

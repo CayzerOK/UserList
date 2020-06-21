@@ -1,0 +1,14 @@
+{
+  "GOTO_LOGIN": "Already signed?",
+  "REGISTER_TITLE": "Registration:",
+  "REG_BTN": "Sign up",
+  "EMAIL_PLACEHOLDER": "email",
+  "LOGIN_PLACEHOLDER": "login",
+  "PASS_PLACEHOLDER": "password",
+  "PASS2_PLACEHOLDER": "password",
+
+  "EMAIL_ALERT": "Email is not valid or unavailable.",
+  "LOGIN_ALERT": "Login is not valid. (6-25 latin letters)",
+  "PASS_ALERT": "Password is not valid.",
+  "PASSEQ_ALERT": "Passwords are not equal."
+}
